@@ -1,0 +1,96 @@
+h1 {
+    color: whitesmoke;
+    background-color: blueviolet;
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-bottom: 20px;
+    padding-right: 10px;
+
+}
+
+#head2 {
+    color: red;
+    background-color: black;
+    padding: 20px;
+    text-align: center;
+}
+
+#font {
+    color: green;
+    background-color: black;
+    text-align: center;
+    padding: 20px;
+}
+
+body {
+    background-color: gainsboro;
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+p {
+    border-width: 10px;
+    border-style: solid;
+    border-color: red;
+    border-radius: 10px;
+}
+
+.p2 {
+    border: 5px dotted blue;
+    border-radius: 10px;
+}
+
+#p3 {
+    border: 10px double black;
+    border-radius: 15px;
+}
+
+.lorem {
+    width: 400px;
+    height: 400px;
+    background-color: blueviolet;
+    border: 10px solid red;
+    margin-top: 50px;
+    margin-left: 30px;
+    margin-bottom: 70px;
+    margin-right: 40px;
+
+}
+
+.new {
+    margin: 50px;
+    border: 10px solid red;
+    outline-width: 10px;
+    outline-style: solid;
+    outline-color: green;
+    outline-offset: 15px;
+}
+
+#text {
+    text-transform: uppercase;
+    text-indent: 80px;
+    letter-spacing: 5px;
+    word-spacing: 15px;
+    line-height: 30px;
+}
+
+.para {
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 700;
+    font-size: x-large;
+}
+
+#icon {
+    text-align: center;
+    background-color: yellow;
+    padding: 20px;
+}
+
+.icon {
+    font-size: 100px;
+    color: blue;
+}
+
+table {
+    border: 3px;
+}
