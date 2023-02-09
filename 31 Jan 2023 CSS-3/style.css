@@ -1,4 +1,4 @@
-h1 {
+.head {
     color: whitesmoke;
     background-color: blueviolet;
     padding-top: 20px;
@@ -91,6 +91,16 @@ p {
     color: blue;
 }
 
-table {
-    border: 3px;
+h1 {
+    text-align: center;
+    display: inline;
+}
+
+span {
+    display: inline-block;
+    font-size: 25px;
+}
+
+.dis {
+    display: ;
 }
